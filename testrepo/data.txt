@@ -1,1 +1,1 @@
-Type mkdir followed by the name of the folder you wish to create, then press “Enter“. Example showing switching to the G drive, then to the test folder and the creation of a folder called “mynewfolder”.
+Hello
